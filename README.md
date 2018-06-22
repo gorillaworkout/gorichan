@@ -1,0 +1,2 @@
+# gorichan
+first time

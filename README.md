@@ -56,3 +56,56 @@ Used Tags & Syntaxes : <html></html>
     </footer>
   </body>
 </html>
+
+
+header{
+	background: white;
+}
+
+#logo{text-align: justify-all;}
+
+
+h1{
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #082D6A;
+  text-align: center;
+}
+nav{
+	text-align: right;
+	font-size: 15px;
+	word-spacing: 20px;
+	 
+}
+
+
+h3{
+  color: #008FFF;
+  background: #FFFFFF;
+}
+
+article{
+  color: black;
+  border-style: groove;
+  margin-right: 150px;
+  margin-left: 150px;
+  background: #FFFFFF;
+}
+
+html{
+	background-image: url('img/pattern.png');
+}
+
+p{
+	background: #FFFFFF;
+}
+
+
+h5{
+	font-family: serif;
+	font-size: 20px;
+	color: white;
+	background: black;
+	text-align: center;
+
+}

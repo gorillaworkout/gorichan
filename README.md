@@ -51,7 +51,6 @@ Used Tags & Syntaxes : <html></html>
       </div>
     </section>
     <footer>
-      
       <h5>
         <br>copyright &copy; 2016 by HACKFOX<br><br></h5> 
     </footer>
